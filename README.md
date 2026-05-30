@@ -154,3 +154,7 @@ python submit_reviews.py
 如果这个脚本帮到了你，欢迎给个 Star 支持一下！
 
 [![GitHub Stars](https://img.shields.io/github/stars/WanderLandWalker/SCUT_Auto_Grader_python?style=social)](https://github.com/WanderLandWalker/SCUT_Auto_Grader_python)
+
+也欢迎请作者喝杯咖啡：
+
+[![赞赏码](https://raw.githubusercontent.com/WanderLandWalker/SCUT_Lesson_Table/master/images/donate.jpg)](https://github.com/WanderLandWalker/SCUT_Lesson_Table/blob/master/images/donate.jpg)
